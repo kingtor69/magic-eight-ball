@@ -1,0 +1,27 @@
+button {
+	border-radius: 50%;
+	margin: 20px;
+	height: 200px;
+	width: 200px;
+	font-size: 1.5em;
+}
+
+.black {
+	background-color: #000;
+	color: #fff;
+}
+
+.red {
+	background-color: hsl(0, 100%, 50%);
+	color: hsl(120, 100%, 50%);
+}
+
+.green {
+	background-color: hsl(120, 100%, 25%);
+	color: hsl(240, 100%, 75%);
+}
+
+.goldenrod {
+	background-color: hsl(43, 74%, 49%);
+	color: hsl(163, 74%, 51%);
+}
